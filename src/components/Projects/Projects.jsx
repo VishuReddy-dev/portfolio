@@ -37,7 +37,7 @@ export const Projects = () => {
         <div className={styles.card}>
           <div className={styles.imgdiv}>
             <img
-              src={getImageUrl("projects/project.png")}
+              src={getImageUrl("projects/image.png")}
               alt="code image"
               className={styles.img}
             />
@@ -59,7 +59,7 @@ export const Projects = () => {
         <div className={styles.card}>
           <div className={styles.imgdiv}>
             <img
-              src={getImageUrl("projects/project.png")}
+              src={getImageUrl("projects/images.png")}
               alt="code image"
               className={styles.img}
             />
